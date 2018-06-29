@@ -14,8 +14,10 @@ class Resume extends Component {
         <Cell col={4}>
           <div style={{textAlign: 'center'}}>
           <img
-              src="https://media.licdn.com/dms/image/C5603AQGuHiRjplrwlQ/profile-displayphoto-shrink_200_200/0?e=1531353600&v=beta&t=qeXr9WcinK-QL9bXeTrWkb42Hmhs-n-zL3RePg_sCHU"
+              src="https://avatars0.githubusercontent.com/u/34671675?v=4"
               alt="avatar"
+
+
               style={{height: '245px', width: '245px', borderRadius: '30%'}}
               />
           </div>
