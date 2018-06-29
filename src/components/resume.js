@@ -28,7 +28,7 @@ class Resume extends Component {
           <h5>Address:</h5>
           <p>723 2 St Miami Beach FL, 33143</p>
           <h5>Phone:</h5>
-          <p>(734)644-7808</p>
+          <p>( 734) 644-7808 </p>
           <h5>Email:</h5>
           <p>darinstone@gmail.com</p>
           <hr style={{borderTop: '5px solid teal', width: '50%'}}/>
